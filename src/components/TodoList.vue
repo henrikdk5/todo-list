@@ -59,6 +59,12 @@ export default {
           'completed': false,
           'editing': false,
         },
+        {
+          'id': 2,
+          'title': 'kan  du poste  ting så det kommer op ',
+          'completed': false,
+          'editing': false,
+        },
       ]
     }
   },
